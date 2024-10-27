@@ -11,7 +11,7 @@ Contiene información de pacientes como edad, sexo, presión sanguínea, coleste
 https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al2009
 Contiene información de 10 clases de calidad del vino o descárguelos del entorno de aprendizaje junto a la guía de actividades.
 
-
+# 
 Con los datasets anteriores diseñar los modelos predictivos de *Regresión Lineal*, *Regresión Logística* y *Árboles de decisión*. Para cada algoritmo realizar los siguientes pasos:
 1. Realizar un análisis exploratorio de los datos para identificar relaciones entre variables, valores atípicos, tendencias, etc.
 2. Preprocesar los datos limpiándolos, tratando valores faltantes y transformándolos según sea necesario.
